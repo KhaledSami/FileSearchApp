@@ -1,0 +1,21 @@
+{
+    "name": "FileSearchApp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KhaledSami/FileSearchApp.git"
+    },
+    "dependencies": {
+        "mocha":"2.x.x",
+        "chai": "~1.9.0"
+    },
+    "keywords": [
+    ],
+    "author": "Khaled Sami <k.sami.mohammed@gmail.com>",
+    "bugs": {
+        "url": "https://github.com/KhaledSami/FileSearchApp/issues"
+    },
+    "homepage": "https://github.com/KhaledSami/FileSearchApp"
+}
