@@ -10,4 +10,11 @@ Run 'npm install' command in your console
 
 "./app.js -q=query [-d=depth] [-p=path]" (e.g. node ./app.js -q=".js")
 
+### Testing Environment
 
+[Mocha](https://github.com/mochajs/mocha)
+[Chai](http://chaijs.com/)
+
+### Resource
+
+http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018
