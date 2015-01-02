@@ -15,6 +15,6 @@ Run 'npm install' command in your console
 [Mocha](https://github.com/mochajs/mocha)
 [Chai](http://chaijs.com/)
 
-### Resource
+### Resources
 
 http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018
